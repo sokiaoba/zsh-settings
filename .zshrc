@@ -5,6 +5,7 @@ export PATH=/usr/local/bin:$PATH
 
 #alias
 alias ls="ls -G"
+alias sh="zsh"
 alias py="python"
 
 #practice
