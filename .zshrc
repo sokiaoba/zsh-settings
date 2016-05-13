@@ -4,6 +4,7 @@ export LC_CTYPE=ja_JP.UTF-8
 export PATH=/usr/local/bin:$PATH
 
 #alias
+alias vi="vim"
 alias ls="ls -G"
 alias sh="zsh"
 alias py="python"
