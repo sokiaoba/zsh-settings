@@ -9,9 +9,6 @@ alias ls="ls -G"
 alias sh="zsh"
 alias py="python"
 
-#practice
-alias practice="cd /Users/aoba/Sites/practice/"
-
 # completion
 fpath=(/usr/local/share/zsh-completions $fpath)
 autoload -U compinit
